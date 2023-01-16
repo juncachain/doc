@@ -1,11 +1,7 @@
 ---
-description: >-
-  The documents contained are intended to educate users on Junca Chain Network
-  and to provide tutorials and documentation for developer on Junca Chain.
+description: test
 ---
 
-# Getting Started
+# Page 1
 
-For Masternode Owner
-
-\[Guide link]
+qqq
