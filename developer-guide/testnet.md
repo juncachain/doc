@@ -4,8 +4,8 @@
 ## Specifications
 
 - Chain id: `667`
-- RPC endpoint: `https://rpc.testnet.juncachain.com`
-- Websocket endpoint: `wss://ws.testnet.juncachain.com`
+- RPC endpoint: `https://rpc-testnet.juncachain.com`
+- Websocket endpoint: `wss://ws-testnet.juncachain.com`
 - Consensus: PoSV
 - Block finality: `>75%`
 - Consensus nodes: up to 150 (masternodes)
@@ -16,8 +16,8 @@
 
 ### Usefull links
 
-- [Scan](https://scan.testnet.juncachain.com) (Block explorer)
-- [Master](https://master.testnet.juncachain.com) (Governance dApp)
+- [Scan](https://scan-testnet.juncachain.com) (Block explorer)
+- [Master](https://master-testnet.juncachain.com) (Governance dApp)
 
 ### Bootnodes
 
