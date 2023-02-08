@@ -13,7 +13,7 @@
 - Smart contract creation fee: gas price 10000 Gwei, gas limit >= 1000000
 - Solidity Compiler version: < 0.9
 
-### Usefull links
+### Useful links
 
 - [Scan](https://scan.juncachain.com) (Block explorer)
 - [Master](https://master.juncachain.com) (Governance dApp)
