@@ -1,4 +1,4 @@
-# Junca Network
+# JuncaChain Network
 
 {% page-ref page="testnet.md" %}
 
