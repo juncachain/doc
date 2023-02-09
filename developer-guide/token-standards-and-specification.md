@@ -40,4 +40,4 @@ JRC21 is under development
 
 ### **JRC721- Non-fungible token.**
 
-Non-fungible tokens (NFTs) are all distinct and special. Every token is rare, with unique characteristics, its own metadata and special attributes. Most of the time when people think about NFT, they refer to the successful CryptoKitties game as the standard for crypto-collectibles. However, there are many other applications for JRC721 tokens. Please check our[ other guide](https://medium.com/JuncaChain/how-to-deploy-nft-tokens-on-JuncaChain-fe476a68594d) about more use-cases for NFT and the process to deploy an NFT token on JuncaChain
+Non-fungible tokens (NFTs) are all distinct and special. Every token is rare, with unique characteristics, its own metadata and special attributes. Most of the time when people think about NFT, they refer to the successful CryptoKitties game as the standard for crypto-collectibles. However, there are many other applications for JRC721 tokens. Please check our[ other guide](https://docs.bnbchain.org/docs/nft-metadata-standard) about more use-cases for NFT and the process to deploy an NFT token on JuncaChain

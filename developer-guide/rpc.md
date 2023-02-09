@@ -27,4 +27,4 @@ junca attach https://rpc-testnet.juncachain.com
 ```
 
 ## JSON-RPC methods
-Please refer to this wiki page or use Postman: https://documenter.getpostman.com/view/4117254/ethereum-json-rpc/RVu7CT5J?version=latest
+Please refer to this [wiki page](https://github.com/ethereum/wiki/wiki/JSON-RPC) or use Postman: <https://documenter.getpostman.com/view/4117254/ethereum-json-rpc/RVu7CT5J?version=latest>
