@@ -3,6 +3,8 @@ description: This section covers the development resources for Smart Contract de
 ---
 # IDEs and Tools
 
+{% page-ref page="solidity.md" %}
+
 {% page-ref page="remix.md" %}
 
 {% page-ref page="truffle.md" %}
