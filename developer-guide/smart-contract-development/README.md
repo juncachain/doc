@@ -1,6 +1,3 @@
----
-description: This section covers the development resources for Smart Contract development.
----
 # IDEs and Tools
 
 {% page-ref page="solidity.md" %}

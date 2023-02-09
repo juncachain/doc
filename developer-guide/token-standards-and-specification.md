@@ -1,10 +1,4 @@
----
-description: >-
-In this guide, we take a look at different token standards on the JuncaChain
-platform.
----
-
-# Juncachain token standards and specification
+# JuncaChain token standards and specification
 
 ## **Overview**
 

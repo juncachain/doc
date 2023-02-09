@@ -1,9 +1,3 @@
----
-description: >-
-This section contains resources for Dapp development - back-end/front-end
-APIs, tools, and useful tutorials.
----
-
 # Developer Guide
 
 {% page-ref page="network/" %}
