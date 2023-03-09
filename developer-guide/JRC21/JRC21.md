@@ -20,14 +20,14 @@ Two types of JRC21 tokens are currently supported, namely:
 The JRC21Issuer contract(JRC21_ISSUER_CONTRACT) is a built-in contract,contract address is `0x0000000000000000004A52433231497373756572`
 
 ## Principle
-- Anyone can issue JRC21 tokens through the JRC21_ISSUER_CONTRACT and need to deposit 50000 ether for gas；
+- Anyone can issue JRC21 tokens through the JRC21_ISSUER_CONTRACT and need to deposit 50,000 JGC for gas；
 - JRC21 itself satisfies all interfaces of JRC20 and can be directly used as JRC20；
 - When the JRC21_ISSUER_CONTRACT is called to operate the JRC21 transfer, the prepaid GAS will be used to pay the miners；
 - Call-Path：USER->JRC21_ISSUER_CONTRACT->JRC21
 - Pay-Path：JRC21_ISSUER_CONTRACT--[GAS]-->coinbase from--[JRC21]--[to] from--[JRC21 FEE]--[JRC21 issuer]
 
 ## Issue
-When issuing, you need to deposit 50,000 ether into the issuing contract as a prepaid GAS for the transaction.
+When issuing, you need to deposit 50,000 JGC into the issuing contract as a prepaid GAS for the transaction.
 - Call the JRC21_ISSUER_CONTRACT.issueJRC21PresetFixed method
 - Call the JRC21_ISSUER_CONTRACT.issueJRC21PresetMinter method
 - Query transaction results, get JRC21 token contract address from event,event name is `Issue`
