@@ -9,6 +9,7 @@
   * [How to run full node](developer-guide/run-full-node.md)
   * [Token standards & specification](developer-guide/token-standards-and-specification.md)
     * [JRC21](developer-guide/JRC21/JRC21.md)
+  * [Junca X protocol](developer-guide/JuncaX/JuncaX.md)
   * [Smart Contract Development](developer-guide/smart-contract-development/README.md)
     * [Solidity](developer-guide/smart-contract-development/solidity.md)
     * [Remix](developer-guide/smart-contract-development/remix.md)
