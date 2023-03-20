@@ -25,7 +25,7 @@ interface IJuncaswapV2Pair {
 }
 ```
 
-## feature
+## Feature
 - Support uniswap-like transactions, you can use uniswap interface to access and trade on juncachain
 - The transaction fee is 0.3% of the sold token
 - Support the creation of `nogaspair`, users do not need gas fees to trade in nogaspair, and even complete the transaction without holding JGC
@@ -33,8 +33,13 @@ interface IJuncaswapV2Pair {
 - JuncaswapRouter2: `nogaspair` can only be traded through JuncaswapRouter2, the transaction fee is 0.3%, of which 0.15% is rewarded to liquidity providers, 0.05% is rewarded to the platform, and 0.1% is rewarded to the creator of the pair
 - Create `nogaspair`: call `JuncaswapFactory.createPair` to create a nogas transaction pair (NOGASPAIR)
 - Set the minimum transaction volume: `NOGASPAIR.setMTV`
-- 充值gas:`NOGASPAIR.gasRecharge`，如果交易对中gas处于低水位线，充值者赢得issuer身份并获得后续交易手续费
 - Recharge gas: NOGASPAIR.gasRecharge, if the gas in the transaction pair is lower than the low water mark, the recharger will win the issuer status and get transaction fees
 - Query the miner fee to be paid for each swap transaction: `NOGASPAIR.gasPerTx`, this value is dynamically adjusted by the platform according to network congestion
 - Query the remaining amount of gas in the `nogaspair`: `NOGASPAIR.gasLeft`, when gasLeft is less than gasPerTx, the transaction will not be completed
 - Query the gas low water mark of the `nogaspair`: `NOGASPAIR.gasLowWaterMark`, when the gas is lower than the low water mark, the issuer may be contested
+
+## Contract Address
+- JuncaswapWJGC: `0x000000000000004a756e636153776170574A4743`
+- JuncaswapFactory: `0x000000004a756e636173776170466163746F7279`
+- JuncaswapRouter1: `0x000000004A756E636173776170526f7574657231`
+- JuncaswapRouter2: `0x000000004a756E636173776170526F7574657232`
