@@ -18,6 +18,7 @@
 
 - [Scan](https://scan-testnet.juncachain.com) (Block explorer)
 - [Master](https://master-testnet.juncachain.com) (Governance dApp)
+- [Faucet](https://faucet-testnet.juncachain.com)
 
 ### Bootnodes
 
