@@ -5,7 +5,7 @@ Enter the home page, you can see the following display view:
 * Preview the information of the three wallets
 * Browse recent transaction records
 
-![home-w195](media/home.png)
+![Home -w195](media/home.png)
 
 ##### View all account balances
 Can check all account balances, click the Buy/Transfer button for quick transfer.

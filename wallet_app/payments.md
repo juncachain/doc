@@ -1,6 +1,7 @@
 # How to Payments
 Junca APP supports **two payment methods**, one is to **scan the code** to transfer money, and the other is to transfer money **by nickname/email/phone number**.
-![Paymemts-w195](media/Paymemts.png)
+
+![Paymemts -w195](media/Paymemts.png)
 
 
 
@@ -16,7 +17,9 @@ After scanning the code to get the user's wallet address, it will jump to the fo
 ### Transfer inside Junca
 Transfer via nickname/email/wallet address
 We will search for the corresponding nickname/email on our centralized server, obtain the wallet address bound to the other party, and transfer money.
-![transfer inside junca-w195](media/transfer%20inside%20junca.png)
+
+![transfer inside junca -w195](media/transfer%20inside%20junca.png)
+
 After querying the user's wallet address, it will jump to the following page for entering the amount.
 
 
