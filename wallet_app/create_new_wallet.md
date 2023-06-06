@@ -5,6 +5,7 @@
 ![create a wallet-w195](media/create%20a%20wallet.png)
 
 2.You can see **Your recovery phrase**, save it. 
+
 {% hint style="note" %}
 🔥PROTECT YOUR SEED PHRASE
 Anyone who gains access to your seed phrase can access the contents of the corresponding wallet. Be cognizant of the fact that there is no recourse for theft of a seed phrase. To protect your seed phrase, consider the following tips.
@@ -13,6 +14,7 @@ Anyone who gains access to your seed phrase can access the contents of the corre
 * Always write down your seed phrase with a pen and paper.
 * Store the paper with your seed phrase on it somewhere safe.
 * Never give your seed phrase to anyone, not even support staff.
+
 {% endhint %}
 
 ![mnemoni-w195](media/mnemonic.png)
