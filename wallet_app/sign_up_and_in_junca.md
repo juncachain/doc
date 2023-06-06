@@ -8,7 +8,7 @@ Frist, launch the Junca app, select **Get started**.
 * Apple login
 * Google login
 
-![Sign in -w195](media/Sign%20in.png)
+![Sign in 195w](media/Sign%20in.png)
 
 ##### 2.Mobile phone/email password login
 Enter the registered nickname or mobile phone or email address and password, and select **Sign in**.
