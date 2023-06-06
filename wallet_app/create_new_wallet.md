@@ -2,7 +2,7 @@
 
 1.Launch the Junca app, sign up and select **Continue**.
 
-![create a wallet-w195](media/create%20a%20wallet.png)
+<img src="media/create%20a%20wallet.png" width="26%">
 
 2.You can see **Your recovery phrase**, save it. 
 
@@ -17,15 +17,15 @@ Anyone who gains access to your seed phrase can access the contents of the corre
 
 {% endhint %}
 
-![mnemoni-w195](media/mnemonic.png)
+<img src="media/mnemonic.png" width="26%">
 
 3.Enter **the corresponding word** in the mnemonic according to the number in front to ensure that you have saved your mnemonic.
 
-![confirm word-w195](media/confirm%20word.png)
+<img src="media/confirm%20word.png" width="26%">
 
 4.Finally, enter your **wallet name** and wait for the procedure to finish creating the wallet.
 
-![enter name-w195](media/enter%20name.png)
+<img src="media/enter%20name.png" width="26%">
 
 Congratulations, you have just created a wallet!
 

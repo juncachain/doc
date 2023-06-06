@@ -1,7 +1,7 @@
 # Account Setting
 On the current page, you can view your detailed information, including avatar, invitation code, phone number, email address, agreement, bank card, device, change password, change language, change main chain, and merge accounts.
 
-![AccountSetting -w195](media/AccountSetting.jpg)
+<img src="media/AccountSetting.jpg" width="26%">
 
 #### Change avatar
 You can **click on the avatar** and freely choose to get it from the photo album or take a photo now to update your avatar.
@@ -14,7 +14,7 @@ You can change your nickname on the details page, and check whether other people
 
 After modifying any information, click Save.
 
-![1181686040927_.pic_hd -w195](media/1181686040927_.pic_hd-1.png)
+<img src="media/1181686040927_.pic_hd-1.png" width="26%">
 
 #### Manage cards
 Tap **Cards** here to manage all your credit cards, including: view credit card list, add credit card, delete credit card.

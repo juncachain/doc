@@ -24,21 +24,22 @@ After you log in once, you can use **Face ID** to log in again next time you ope
 
 ## Register
 ##### 1.Enter basic information: phone/email, nickname, password, invitation code (optional).
-![sign up -w195](media/sign%20up.png)
+
+<img src="media/sign%20up.png" width="26%">
 
 ##### 2.Fill in the verification code received by phone/email.
-![verify emai -w195](media/verify%20email.png)
+<img src="media/verify%20email.png" width="26%">
 
 
 ##### 3.Select Restore Wallet/New Wallet/Create Wallet Later to enter the subsequent process.
-![Create a wallet -w195](media/create%20a%20wallet.png)
+<img src="media/create%20a%20wallet.png" width="26%">
 
 ## Forget Password
 ##### 1.Enter your phone or email to reset your password.
-![Send code -w195](media/forgotPassword.png)
+<img src="media/forgotPassword.png" width="26%">
 
 ##### 2.Please enter your verificatiion code and new password to reset your password.
-![Enter code and password -w195](media/forgotPswRestPsw.png)
+<img src="media/forgotPswRestPsw.png" width="26%">
 
 Choose to **Reset Password**, and you can log in with the new password after success!
 

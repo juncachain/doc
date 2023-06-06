@@ -3,7 +3,7 @@
 ##### 1. Enter the recovery wallet page
 This page can be accessed after registration or login.
 
-![new wallet confir -w195](media/new%20wallet%20confirm.png)
+<img src="media/new%20wallet%20confirm.png" width="26%">
 
 
 ##### 2. Fill in your mnemonic phrase
