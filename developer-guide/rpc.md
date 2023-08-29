@@ -12,7 +12,7 @@ eth_getLogs is disabled on below Mainnet endpoints, please use 3rd party endpoin
 - RPC endpoint: `https://rpc.juncachain.com`
 - Websocket endpoint: `wss://ws.juncachain.com`
 
-## Testnet (ChainID 0x29B, 667 in decimal)
+## Testnet (ChainID 0x29D, 669 in decimal)
 - RPC endpoint: `https://rpc-testnet.juncachain.com`
 - Websocket endpoint: `wss://ws-testnet.juncachain.com`
 

@@ -140,7 +140,7 @@ junca account list --datadir $DATA_DIR  --keystore $KEYSTORE_DIR
 * $IDENTITY: the name of your node
 * $PASSWORD: the password file to unlock your account
 * $YOUR\_COINBASE\_ADDRESS: address of your account which generated in the previous step
-* $NETWORK\_ID: the networkId. Mainnet: 668. Testnet: 667
+* $NETWORK\_ID: the networkId. Mainnet: 668. Testnet: 669
 * $BOOTNODES: The comma separated list of bootnodes. Find them Mainnet [here](https://doc.juncachain.com/developer-guide/mainnet#bootnodes) Testnet [here](https://doc.juncachain.com/developer-guide/testnet#bootnodes)
 
 **Let's start a node**

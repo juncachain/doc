@@ -3,7 +3,7 @@
 
 ## Specifications
 
-- Chain id: `667`
+- Chain id: `669`
 - RPC endpoint: `https://rpc-testnet.juncachain.com`
 - Websocket endpoint: `wss://ws-testnet.juncachain.com`
 - Consensus: PoSV

@@ -99,7 +99,7 @@ module.exports = {
         },
         testnet: {
             url: "https://rpc-testnet.juncachain.com/",
-            chainId: 667,
+            chainId: 669,
             gasPrice: 20000000000,
             accounts: {mnemonic: mnemonic}
         },
