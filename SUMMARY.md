@@ -18,3 +18,16 @@
     * [Web3.js](developer-guide/smart-contract-development/web3js.md)
   * [dApp Development](developer-guide/dapp-development/README.md)
     * [Develop Full Stack dApp](developer-guide/dapp-development/helloworld.md)
+* [Wallet App](wallet_app/README.md) 
+    * [Download App](wallet_app/download_app.md) 
+    * [Sign up & in Junca](wallet_app/sign_up_and_in_junca.md) 
+    * [Create New Wallet](wallet_app/create_new_wallet.md) 
+    * [Restore Wallet](wallet_app/restore_wallet.md) 
+    * [Migrate JCC From V1](wallet_app/migrate_JCC_from_V1.md) 
+    * [Home](wallet_app/home.md) 
+    * [Account Setting](wallet_app/account_setting.md) 
+    * [Payments](wallet_app/payments.md) 
+    * [Walltes Manager](wallet_app/mut_walltes.md) 
+    * [History](wallet_app/history.md) 
+
+
